@@ -1,0 +1,6 @@
+applications:
+- name: hello-worldht
+  instance: 1
+  random-route: true
+  path: .
+  memory: 30M
